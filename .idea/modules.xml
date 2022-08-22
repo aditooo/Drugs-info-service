@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Drug-Info-Service-master/Drugs-Info-Service/Drugs-Info-Service/Drugs-Info-Service.iml" filepath="$PROJECT_DIR$/Drug-Info-Service-master/Drugs-Info-Service/Drugs-Info-Service/Drugs-Info-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Drugs-info-service.iml" filepath="$PROJECT_DIR$/.idea/Drugs-info-service.iml" />
+    </modules>
+  </component>
+</project>
